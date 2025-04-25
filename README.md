@@ -1,8 +1,11 @@
 # QA-Major-Project
 ## 1) Introduction
  **Project Title:** QA Automation Testing on Xbox Website
+ 
  **Student Name:** Som Kunar
+ 
  **Semester:** 2nd Sem
+ 
  **Institution:** Polaris School Of Technology
 
 ## 2) Objective
