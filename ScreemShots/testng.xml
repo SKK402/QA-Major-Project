@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG Suite" parallel="methods" thread-count="2">
+
+<listeners>
+<listener class-name="qa.Screenshots"></listener>
+
+</listeners>
+
+  <test name="UserTests">
+    <classes>
+      <class name="qa.Content">
+      </class>
+    </classes>
+  </test>
+
+</suite>
